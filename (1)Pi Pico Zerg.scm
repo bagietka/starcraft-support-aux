@@ -1,1 +1,0 @@
-~/.wine/drive_c/Program\ Files/Starcraft/maps/BroodWar/(1)Pi Pico Zerg.scm
